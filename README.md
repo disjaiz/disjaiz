@@ -1,26 +1,137 @@
-Siddhi 👋
+<div align="center">
+
+Siddhi Jaiswal
+
+Full-Stack Developer • BCA • Builder
 
 I build. I break. I figure it out.
+Curious about what happens under the hood.
 
-💻 Full-Stack Developer in the making
-📚 BCA | CS Fundamentals | DSA
-⚙️ React • Node.js • MongoDB • JavaScript
-🔍 Curious about what happens under the hood
+<br/>
 
 
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/siddhijaiiswalll?igsh=eHprMXd0bTYwajNw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddhi-jaiswal-77b015269) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Siddhi-Jaiswal-114) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackexchange.com/users/30597946/siddhi-jaiswal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/JaiswalSid87831?t=QlH8E2jO68tDBrSv7ndO2A) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddhibiz23@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=disjaiz&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=disjaiz&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=disjaiz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-![](https://github-contributor-stats.vercel.app/api?username=disjaiz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
+
+01 • About me
+
+💻  Building full-stack web applications
+🧠  Strengthening CS fundamentals + DSA
+⚙️  Working with React, Node.js, MongoDB & JavaScript
+🔍  Learning by building, debugging and understanding internals
+
+02 • Tech stack
+
+Frontend
+
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React" /></a>
+  <a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React Native" /></a>
+  <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" height="48" alt="Vite" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS" /></a>
+</p>
+
+Backend
+
+<p>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="48" alt="Express.js" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" /></a>
+</p>
+
+Languages
+
+<p>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" /></a>
+</p>
+
+Tools & platforms
+
+<p>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman" /></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma" /></a>
+  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Vercel" /></a>
+  <a href="https://render.com/"><img src="https://skillicons.dev/icons?i=render" height="48" alt="Render" /></a>
+  <a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" height="48" alt="npm" /></a>
+</p>
+
+03 • What I'm building
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+01 — Full-stack projects
+
+React + Node.js + MongoDB
+
+Building end-to-end applications, APIs and practical features.
+
+</td>
+<td width="33%" valign="top">
+
+02 — CS fundamentals
+
+DSA + core concepts
+
+Going beyond frameworks to understand the basics underneath them.
+
+</td>
+<td width="33%" valign="top">
+
+03 — Developer workflow
+
+Git + GitHub + Postman
+
+Shipping, testing, debugging and iterating in public.
+
+</td>
+</tr>
+</table>
+
+04 • GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=disjaiz&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=disjaiz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=disjaiz&theme=dark&hide_border=true" height="165" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=disjaiz&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub contributor stats" />
+
+</div>
+
+05 • Current mindset
+
+Build → break → understand → improve → ship.
+
+I'm focused on becoming the kind of developer who doesn't just make things work —
+I want to understand why they work.
+
+<div align="center">
+
+Building in public • Learning continuously • Shipping one project at a time
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00272B&height=90&section=footer" width="100%" alt="Footer" />
+
+</div>
