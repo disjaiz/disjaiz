@@ -1,6 +1,6 @@
 <div align="center">
 
-Siddhi Jaiswal
+SIDDHI JAISWAL
 
 Full-Stack Developer • BCA • Builder
 
@@ -18,14 +18,14 @@ Curious about what happens under the hood.
 
 </div>
 
-01 • About me
+1 • About me
 
-💻  Building full-stack web applications
-🧠  Strengthening CS fundamentals + DSA
-⚙️  Working with React, Node.js, MongoDB & JavaScript
-🔍  Learning by building, debugging and understanding internals
+💻 Building full-stack web applications
+🧠 Strengthening CS fundamentals + DSA
+⚙️ React • Node.js • MongoDB • JavaScript
+🔍 Learning by building, debugging and understanding internals
 
-02 • Tech stack
+2 • Tech stack
 
 Frontend
 
@@ -67,41 +67,8 @@ Tools & platforms
   <a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" height="48" alt="npm" /></a>
 </p>
 
-03 • What I'm building
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-01 — Full-stack projects
-
-React + Node.js + MongoDB
-
-Building end-to-end applications, APIs and practical features.
-
-</td>
-<td width="33%" valign="top">
-
-02 — CS fundamentals
-
-DSA + core concepts
-
-Going beyond frameworks to understand the basics underneath them.
-
-</td>
-<td width="33%" valign="top">
-
-03 — Developer workflow
-
-Git + GitHub + Postman
-
-Shipping, testing, debugging and iterating in public.
-
-</td>
-</tr>
-</table>
-
-04 • GitHub activity
+4 • GitHub activity
 
 <div align="center">
 
@@ -115,9 +82,10 @@ Shipping, testing, debugging and iterating in public.
 
 <br/><br/>
 
+
 </div>
 
-05 • Current mindset
+5 • Current mindset
 
 Build → break → understand → improve → ship.
 
