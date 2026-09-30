@@ -115,8 +115,6 @@ Shipping, testing, debugging and iterating in public.
 
 <br/><br/>
 
-<img src="https://github-contributor-stats.vercel.app/api?username=disjaiz&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub contributor stats" />
-
 </div>
 
 05 • Current mindset
